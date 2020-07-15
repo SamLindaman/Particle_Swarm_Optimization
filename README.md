@@ -1,5 +1,6 @@
-# Particle_Swarm_Optimization
-C++ Final Project
+# Particle_Swarm_Optimizatio
+BJTU C++ Final Project
+Check PPT file for "what is particle swarm optimization" explanation
 
 # Equations To Optomize
 
