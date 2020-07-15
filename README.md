@@ -1,4 +1,4 @@
-# Particle_Swarm_Optimizatio
+# Particle_Swarm_Optimization
 BJTU C++ Final Project.
 
 Check PPT file for "what is particle swarm optimization" explanation.
